@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-floobits",
+  "description": "ESLint config for Floobits JavaScript projects.",
+  "homepage": "https://github.com/Floobits/eslint-config",
+  "repository": "https://github.com/Floobits/eslint-config",
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}
