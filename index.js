@@ -4,6 +4,7 @@ module.exports = {
     "blockBindings": true,
     "forOf": true,
     "generators": true,
+    "jsx": true,
     "objectLiteralShorthandProperties": true,
     "templateStrings": true
   },
