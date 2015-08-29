@@ -14,7 +14,7 @@ module.exports = {
   "rules": {
     "comma-dangle": [0],
     "consistent-return": [1],
-    "consistent-this": [1, "that"],
+    "consistent-this": [1, "self"],
     "curly": [2],
     "default-case": [2],
     "dot-notation": [1],
