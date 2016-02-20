@@ -32,7 +32,6 @@ module.exports = {
     "no-console": [0],
     "no-constant-condition": [0],
     "no-else-return": [2],
-    "no-empty-label": [2],
     "no-eval": [2],
     "no-lone-blocks": [2],
     "no-multi-spaces": [2],
