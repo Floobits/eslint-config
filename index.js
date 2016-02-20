@@ -9,6 +9,7 @@ module.exports = {
     "templateStrings": true
   },
   "env": {
+    "es6": true,
     "node": true
   },
   "extends": "eslint:recommended",
