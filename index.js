@@ -15,7 +15,6 @@ module.exports = {
   "extends": "eslint:recommended",
   "rules": {
     "comma-dangle": [0],
-    "consistent-return": [1],
     "consistent-this": [1, "self"],
     "curly": [2],
     "default-case": [2],
