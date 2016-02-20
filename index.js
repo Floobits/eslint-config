@@ -1,18 +1,15 @@
 module.exports = {
-  "ecmaFeatures": {
-    "arrowFunctions": true,
-    "blockBindings": true,
-    "forOf": true,
-    "generators": true,
-    "jsx": true,
-    "objectLiteralShorthandProperties": true,
-    "templateStrings": true
-  },
   "env": {
     "es6": true,
     "node": true
   },
   "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "jsx": true,
+    },
+  },
   "rules": {
     "comma-dangle": [0],
     "consistent-this": [1, "self"],
